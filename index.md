@@ -18,8 +18,8 @@ The demonstration files are 小星星變奏曲第二變奏 and the single note C
 
 [wav test](littlestar.wav)
 <div>
-<iframe width="100%" height = 300 scrolling = "no" frameborder = "no" allow="autoplay" src = "/litterstar.wav">
-</iframe>
+    <iframe width="100%" height = 300 scrolling = "no" frameborder = "no" allow="autoplay" src = "./1.png">
+    </iframe>
 </div>
 
 ### Markdown
