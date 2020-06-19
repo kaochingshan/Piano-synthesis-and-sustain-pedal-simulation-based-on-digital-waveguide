@@ -8,11 +8,12 @@
 
 The following table is the sound files of the two methods of simulating the pedal effect in different situations.
 
-The demonstration files are 小星星變奏曲第二變奏 and the single note C2.
+The demonstration files are `小星星變奏曲第二變奏` and the single note C2.
 
 |Method \ Number of strings| Single String | Double String |
 | :---------------------------: | :--------------: | :---------------:|
-|String Coupling Matrix      | [little star](/audio/S2littlestar.wav)| [little star](/audio/S2littlestar.wav)                       |
+|String Coupling Matrix      | [little star](/audio/S2littlestar.wav)| [little star](/audio/S1littlestar.wav)|
+                                            [C2](/audio/S2c2)
 |Lehtonen's                         |                      |                         |
 
 
