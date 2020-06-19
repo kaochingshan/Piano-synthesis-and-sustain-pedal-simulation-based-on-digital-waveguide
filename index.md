@@ -4,6 +4,7 @@ This site presents audio files that simulate the sustain pedal effect
 The methods mentioned below are explained in detail in the [link]().
 
 The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis and modeling of piano sustain-pedal effects."
+## i just try
 
 You can use the [editor on GitHub](https://github.com/kaochingshan/Piano-synthesis-and-sustain-pedal-simulation-based-on-digital-waveguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
