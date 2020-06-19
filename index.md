@@ -1,4 +1,5 @@
-## SustainPedaleffect
+# Piano synthesis and sustain pedal simulation based on digital waveguide
+## Sustain Pedal Effect
 
 This site presents audio files that simulate the sustain pedal effect
 The methods mentioned below are explained in detail in the [link]().
