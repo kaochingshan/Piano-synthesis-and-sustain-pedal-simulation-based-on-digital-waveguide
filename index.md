@@ -16,7 +16,7 @@ The demonstration files are 小星星變奏曲第二變奏 and the single note C
 |Lehtonen's                         |                      |                         |
 
 
-[wav test](https://drive.google.com/file/d/1L6FkXkZ-XP_u2YtVZpuzWHy1FRIM8QLv/view?usp=sharing)
+[wav test](littlestar.wav)
 
 ### Markdown
 
