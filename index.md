@@ -13,7 +13,6 @@ The demonstration files are `小星星變奏曲第二變奏` and the single note
 |Method \ Number of strings| Single String | Double String |
 | :---------------------------: | :--------------: | :---------------:|
 |String Coupling Matrix      | [little star](/audio/S2littlestar.wav) <br> [C2](/audio/S2c2)| [little star](/audio/S1littlestar.wav)|
-                                            
 |Lehtonen's                         |                      |                         |
 
 
