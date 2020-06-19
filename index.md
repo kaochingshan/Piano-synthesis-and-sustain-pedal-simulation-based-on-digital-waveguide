@@ -1,4 +1,3 @@
-# piano synth
 ## Sustain Pedal Effect
 
 This site presents audio files that simulate the sustain pedal effect
@@ -6,6 +5,11 @@ The methods mentioned below are explained in detail in the [link]().
 
 The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis and modeling of piano sustain-pedal effects."
 
+### Sound Example
+                    | Single String | Double String
+    ----------------|:-------------:||:-------------------
+    String Coupling |
+    Lehtonen's      |
 
 ### Markdown
 
