@@ -7,9 +7,9 @@ The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis
 
 ### Sound Example
                     | Single String | Double String
-    ----------------|:-------------:||:-------------------
-    String Coupling |
-    Lehtonen's      |
+    ----------------|---------------|-------------------
+    String Coupling |               |
+    Lehtonen's      |               |
 
 ### Markdown
 
