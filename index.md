@@ -7,16 +7,13 @@ The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis
 
 ### Sound Example
 
-|Method\Number of strings| Single String | Double String |
+|Method \ Number of strings| Single String | Double String |
 | :---------------------------: | :--------------: | :---------------:|
-|String Coupling                  |                      |                        |
+|String Coupling Matrix      |                      |                        |
 |Lehtonen's                         |                      |                         |
 
 
-name | age
----- | ---
-LearnShare | 12
-Mike |  32
+![wav test](https://drive.google.com/file/d/1L6FkXkZ-XP_u2YtVZpuzWHy1FRIM8QLv/view?usp=sharing)
 
 ### Markdown
 
