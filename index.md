@@ -6,10 +6,11 @@ The methods mentioned below are explained in detail in the [link]().
 The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis and modeling of piano sustain-pedal effects."
 
 ### Sound Example
-|| Single String | Double String
-----------------|---------------|-------------------
-String Coupling |               |
-Lehtonen's      |               |
+
+|Method\Number of strings| Single String | Double String |
+| :---------------------------: | :--------------: | :---------------:|
+|String Coupling                  |                      |                        |
+|Lehtonen's                         |                      |                         |
 
 
 name | age
