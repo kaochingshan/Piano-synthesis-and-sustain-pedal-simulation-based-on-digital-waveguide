@@ -5,7 +5,11 @@ The methods mentioned below are explained in detail in the [link]().
 
 The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis and modeling of piano sustain-pedal effects."
 
-### Sound Example
+### Sound Examples
+
+The following table is the sound files of the two methods of simulating the pedal effect in different situations.
+
+The demonstration files are 小星星變奏曲第二變奏 and the single note C2.
 
 |Method \ Number of strings| Single String | Double String |
 | :---------------------------: | :--------------: | :---------------:|
@@ -13,7 +17,7 @@ The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis
 |Lehtonen's                         |                      |                         |
 
 
-![wav test](https://drive.google.com/file/d/1L6FkXkZ-XP_u2YtVZpuzWHy1FRIM8QLv/view?usp=sharing)
+[wav test](https://drive.google.com/file/d/1L6FkXkZ-XP_u2YtVZpuzWHy1FRIM8QLv/view?usp=sharing)
 
 ### Markdown
 
