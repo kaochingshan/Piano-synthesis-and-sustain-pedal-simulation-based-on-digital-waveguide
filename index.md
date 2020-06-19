@@ -7,10 +7,6 @@ The method of comparison is proposed by Heidi-Maria Lehtonen et al. in "Analysis
 ## i just try
 ## Sustain Pedal Effect
 
-You can use the [editor on GitHub](https://github.com/kaochingshan/Piano-synthesis-and-sustain-pedal-simulation-based-on-digital-waveguide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
