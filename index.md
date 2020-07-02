@@ -8,7 +8,7 @@
 
 The following table is the sound files of the two methods of simulating the pedal effect in different situations.
 
-The audio files are `小星星變奏曲第二變奏("Ah vous dirai-je, Maman")` and the single note C2.
+The audio files are `小星星變奏曲第二變奏(Ah vous dirai-je, Maman)` and the single note C2.
 
 |Method \ Number of strings| Single String | Double String |
 | :---------------------------: | :--------------: | :---------------:|
