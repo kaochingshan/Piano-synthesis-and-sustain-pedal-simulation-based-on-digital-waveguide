@@ -20,4 +20,4 @@ The audio files are `小星星變奏曲第二變奏("Ah vous dirai-je, Maman")` 
 * Provide a version of the piano sound I synthesized without a sustain pedal for easy comparison.
     *  `little star (no sustein pedal version)`  [System 1](/audio/littlestar(s1np).wav)  [System 2](/audio/littlestar(s2np).wav) 
 * Provide the high-pitched sound produced by Lehtonen’s method, which can be compared with my version more clearly.
-`Single note of system 4` [C4](/audio/c4(s4).wav) [C5](/audio/c5(s4).wav) 
+    *  `Single note of system 4` [C4](/audio/c4(s4).wav) [C5](/audio/c5(s4).wav) 
