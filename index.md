@@ -13,5 +13,5 @@ The demonstration files are `小星星變奏曲第二變奏` and the single note
 |Method \ Number of strings| Single String | Double String |
 | :---------------------------: | :--------------: | :---------------:|
 |String Coupling Matrix      | [little star](/audio/littlestar(s1).wav) <br> [C2](/audio/c2(s1).wav) <br> [C3](/audio/c3(s1).wav)| [little star](/audio/littlestar(s2).wav) <br> [C2](/audio/c2(s2).wav) <br> [C3](/audio/c3(s2).wav)|
-|Lehtonen's                        |  [little star](/audio/littlestar(s3).wav) <br> [C2](/audio/c2(s3).wav) <br> [C3](/audio/c3(s3).wav)| [little star](/audio/littlestar(s4).wav) <br> [C2](/audio/c2(s4).wav) <br> [C3](/audio/c3(s4).wav)|s
+|Lehtonen's                        |  [little star](/audio/littlestar(s3).wav) <br> [C2](/audio/c2(s3).wav) <br> [C3](/audio/c3(s3).wav)| [little star](/audio/littlestar(s4).wav) <br> [C2](/audio/c2(s4).wav) <br> [C3](/audio/c3(s4).wav)|
 
